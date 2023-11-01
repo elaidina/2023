@@ -53,6 +53,7 @@ body {
 
 .slide h4 {
   font-size: 1.3rem;
+ display: none;
 }
 
 .btn {
